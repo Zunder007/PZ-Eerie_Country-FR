@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Base.Eerie Country Map = "Carte de Eerie Country",
+}
